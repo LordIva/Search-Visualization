@@ -1,13 +1,13 @@
-# 🧠 Search Algorithm Visualizer
+#  Search Algorithm Visualizer
 
 A real-time interactive visualization tool for classical search algorithms (BFS, DFS, IDS, Greedy Best-First, A* Energy-Optimal, and A* Path-Optimal).  
 This project helps users understand how search algorithms explore a state space through step-by-step graphical animations.
 
 ---
 
-## 🎯 Features
+##  Features
 
-### 🔍 Supported Search Algorithms
+###  Supported Search Algorithms
 - **BFS (Breadth-First Search)**
 - **DFS (Depth-First Search)**
 - **IDS (Iterative Deepening Search)**
